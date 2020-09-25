@@ -55,6 +55,8 @@ export default {
 </script>
 
 <style>
+@import url('./assets/fangzheng/fangzheng.css');
+
 html,
 body,
 #app {
@@ -62,7 +64,8 @@ body,
   margin: 0;
   background-color: #000;
   color: #f90;
-  font-family: Arial,Helvetica,sans-serif;
+  /*font-family: Arial,Helvetica,sans-serif;*/
+  font-family: "方正舒体";
 }
 a {
   color: #f90;
